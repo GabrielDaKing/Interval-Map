@@ -8,13 +8,12 @@ In this case, an Interval Map is a map that is designed to assign a value to a v
 
 ## Current Status of the Project
 
-- <code style="color : green">Repo created</code>
-- <code style="color : green">Empty Commit</code>
-- <code style="color : green">First commit</code>
-- <code style="color : green">Basic Functionality</code>
-- <code style="color : green">Installable</code>
-- <code style="color : yellow">Basic Docs</code>
-- <code style="color : red">Extensive Docs</code>
-- <code style="color : yellow">Basic Example</code>
-- <code style="color : red">Extensive Examples</code></code>
-
+- ${\color{Green}\textsf{Repo created}}$
+- ${\color{Green}\textsf{Empty Commit}}$
+- ${\color{Green}\textsf{First commit}}$
+- ${\color{Green}\textsf{Basic Functionality}}$
+- ${\color{Green}\textsf{Installable}}$
+- ${\color{Yellow}\textsf{Basic Docs}}$
+- ${\color{Red}\textsf{Extensive Docs}}$
+- ${\color{Yellow}\textsf{Basic Example}}$
+- ${\color{Red}\textsf{Extensive Examples}}$
